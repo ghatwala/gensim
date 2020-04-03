@@ -1,5 +1,5 @@
 sudo: false
-
+arch: ppc64le
 cache:
   apt: true
   directories:
